@@ -8,12 +8,12 @@
 }
 
 .top-nav-collapse {
-    background-color: #4285F4;
+    background-color: #000000;
 }
 
 @media only screen and (max-width: 768px) {
     .navbar {
-        background-color: #4285F4;
+        background-color: #000000;
     }
 }
 
