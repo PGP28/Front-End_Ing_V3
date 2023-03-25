@@ -1,14 +1,19 @@
 .view {
-    background: url("https://mdbootstrap.com/img/Photos/Others/img (40).webp")no-repeat center center;
+    height: 100vh;
+    background: url("https://raw.githubusercontent.com/PGP28/Front-End_Ing_V3/main/img/bg.png")no-repeat center center;
     background-size: cover;
 }
 
-.navbar {
-    background-color: transparent;
+.gris{
+  background: rgba(0, 0, 0, 0.299) !important;
 }
 
+/* .navbar {
+    background-color: transparent;
+} */
+
 .top-nav-collapse {
-    background-color: #000000;
+    background: rgba(0, 0, 0, 0.7) !important;
 }
 
 @media only screen and (max-width: 768px) {
