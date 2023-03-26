@@ -1,4 +1,5 @@
 .fondo {
+    margin-top: 5;
     height: 98vh;
     background: url("https://raw.githubusercontent.com/PGP28/Front-End_Ing_V3/main/img/bg.png")no-repeat center center;
     background-size: cover;
